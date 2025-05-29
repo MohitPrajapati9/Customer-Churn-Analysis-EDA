@@ -3,25 +3,25 @@ Analyzed customer data using Python to find why customers leave (churn). Explore
 
 ### What I did:
 
-Looked at the data to understand what it contains.
+- Looked at the data to understand what it contains.
 
-Found out how many customers left and how many stayed.
+- Found out how many customers left and how many stayed.
 
-Checked which factors (like contract type, monthly bill, payment method, etc.) are linked to customers leaving.
+- Checked which factors (like contract type, monthly bill, payment method, etc.) are linked to customers leaving.
 
-Made charts and graphs to see the patterns clearly.
+- Made charts and graphs to see the patterns clearly.
 
 ### Tools Used:
 
-Python (Pandas, Matplotlib, Seaborn)
+- Python (Pandas, Matplotlib, Seaborn)
 
-Jupyter Notebook
+- Jupyter Notebook
 
 ### What I learned:
 
-Customers with short contracts and high bills leave more often.
+- Customers with short contracts and high bills leave more often.
 
-Customers who stayed longer with the company usually don’t leave.
+- Customers who stayed longer with the company usually don’t leave.
 
 # Summary & Key Insights
 ### Key Observations:
@@ -38,5 +38,3 @@ Customers who stayed longer with the company usually don’t leave.
   - Customers with higher monthly charges are more likely to churn.
 - Tenure:
   - New customers (with low tenure) have a higher churn rate. Long-term customers are more loyal.
-
-Some payment methods are linked to higher chances of leaving.
